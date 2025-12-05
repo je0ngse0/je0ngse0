@@ -23,7 +23,10 @@
     <div align= "center"> <a href=https://velog.io/@jang_mut_gae/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jang_mut_gae/posts"> </a>
          <a href=mailto:wjdtj465@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wjdtj465@gmail.com"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+    
+![JS's GitHub stats](https://github-readme-stats.vercel.app/api?username=je0ngse0&show_icons=true&theme=radical)    
+
     </div>
     
