@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff8585,100:fd85ff&height=120&text=오늘도%20외칩니다%20“왜%20안%20돼?”&animation=fadeIn&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff8585,100:fd85ff&height=120&text=왜%20안%20돼?&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
@@ -25,9 +25,5 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=je0ngse0&bg_color=60,ffffff,9d7272&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=je0ngse0&layout=compact&bg_color=60,ffffff,9d7272&title_color=000000&text_color=000000"
-           /> </div> 
     </div>
     
